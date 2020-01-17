@@ -9,3 +9,7 @@ What I learned:
 - handle real-time mouse input
 - write some basic artificial intelligence
 - detect and respond to paddle and ball collisions
+
+<img src="pong_sc.png">
+
+<img src="win_screen.png">
