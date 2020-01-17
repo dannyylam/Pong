@@ -10,7 +10,5 @@ What I learned:
 - write some basic artificial intelligence
 - detect and respond to paddle and ball collisions
 
-<img src="pong_sc.png">
-
-<img src="winScreen.png">
+<img src="pong.gif">
  
