@@ -12,5 +12,5 @@ What I learned:
 
 <img src="pong_sc.png">
 
-<img src="win_screen.png">
+<img src="winScreen.png">
  
